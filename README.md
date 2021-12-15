@@ -1,14 +1,9 @@
-# FotoAD
+# Almacen de fotos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Practica de proyecto
 
-Integrantes:
-    `martinez martinez alvaro`
-    `roman gomez jonathan`
-    `perez garibay mabel`
-    `cortes san miguel ulises`
 
 ## Development server
 
